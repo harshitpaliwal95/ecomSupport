@@ -4,17 +4,18 @@
 
 - Python3
 - Django Framwork
-- Sql Db ( any )
+- Sql Db ( PostgrasSQL v - 15.1 )
 - Server AWS
 
+## Get Started
 
-## Get Started 
- - Clone 
- ```
- https://github.com/harshitpaliwal95/ecomSupport.git
- ```
- 
- - Go to the project directory
+- Clone
+
+```
+https://github.com/harshitpaliwal95/ecomSupport.git
+```
+
+- Go to the project directory
 
 ```bash
   cd ecomSupport
